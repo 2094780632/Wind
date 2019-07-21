@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "XYX",
+      "Y#Y",
+      "XYX"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:dye",
+        "data": 4
+      },
+      "#": {
+        "item": "wind:magic_feather"
+      },
+      "Y": {
+        "item": "minecraft:emerald"
+      }
+    },
+    "result": {
+      "item": "wind:magic_mineral"
+    }
+  }

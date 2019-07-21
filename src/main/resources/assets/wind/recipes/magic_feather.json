@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "XYX",
+      "Y#Y",
+      "XYX"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:feather"
+      },
+      "X": {
+        "item": "wind:silver_ingot"
+      },
+      "Y": {
+        "item": "wind:pneumatic_air"
+      }
+    },
+    "result": {
+      "item": "wind:magic_feather"
+    }
+  }

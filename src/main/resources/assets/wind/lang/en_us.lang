@@ -1,0 +1,37 @@
+#Item
+item.Aeolus.name=the Sword of Aeolus
+item.wind_net.name=Wind Net
+item.Cloud.name=Cloud
+item.magic_feather.name=Magic Feather
+item.magic_ingot.name=Magic Ingot
+item.magic_mineral.name=Magic Mineral
+item.magic_stick.name=Magic Stick
+item.silver_ingot.name=Silver Ingot
+item.pneumatic_air.name=Wind
+item.bucket_hot_water.name=Buckit of Hot Water
+
+#Block
+tile.cloudcrystal.name=Cloud Crystal
+tile.silver_ore.name=Silver Ore
+
+#CreativeTab
+itemGroup.Wind=§3Wind:Wind always follows you
+
+#Advancements
+advancements.wind.root.title=Wind
+advancements.wind.root.description=Wind starts to follow you
+
+advancements.wind.aeolus.title=the Sword of Aeolus!
+advancements.wind.aeolus.description=You have the power of wind
+
+advancements.wind.silver_ingot.title=The Silver!
+advancements.wind.silver_ingot.description=Um...Maybe it can be used to judge poison?
+
+advancements.wind.magic_ingot.title=This is Magic!
+advancements.wind.magic_ingot.description=It time to show your magic
+
+advancements.wind.wind.title=Pneumatic Air
+advancements.wind.wind.description=All the power of the wind have been discovered
+
+advancements.wind.cloud.title=Fluttering Cloud
+advancements.wind.cloud.description=The power of the wind helps the Cloud

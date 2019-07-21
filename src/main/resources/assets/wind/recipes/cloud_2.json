@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "wind:pneumatic_air"
+      },
+      "X": {
+        "item": "wind:bucket_hot_water"
+      }
+    },
+    "result": {
+      "item": "wind:cloud"
+    }
+  }

@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "wind:pneumatic_air"
+        },
+        "title": {
+            "translate": "advancements.wind.wind.title"
+        },
+        "description": {
+            "translate": "advancements.wind.wind.description"
+        }
+    },
+    "parent": "wind:root",
+    "criteria": {
+        "get_stone": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "wind:pneumatic_air"
+                    }
+                ]
+            }
+        }
+    }
+}

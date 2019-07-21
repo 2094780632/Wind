@@ -1,0 +1,25 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern": [
+      " Z ",
+      "YXY",
+      " # "
+    ],
+    "key": {
+      "#": {
+        "item": "wind:magic_stick"
+      },
+      "X": {
+        "item": "wind:magic_ingot"
+      },
+      "Y": {
+        "item": "wind:cloud"
+      },
+      "Z":{
+        "item": "wind:silver_ingot"
+      }
+    },
+    "result": {
+      "item": "wind:aeolus"
+    }
+  }

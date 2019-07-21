@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "wind:silver_ingot"
+        },
+        "title": {
+            "translate": "advancements.wind.silver_ingot.title"
+        },
+        "description": {
+            "translate": "advancements.wind.silver_ingot.description"
+        }
+    },
+    "parent": "wind:root",
+    "criteria": {
+        "get_stone": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "wind:silver_ingot"
+                    }
+                ]
+            }
+        }
+    }
+}

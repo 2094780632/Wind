@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "#"
+    ],
+    "key": {
+      "#": {
+        "item": "wind:cloudcrystal"
+      }
+    },
+    "result": {
+      "item": "wind:cloud",
+      "count": 4
+    }
+  }

@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "wind:Aeolus"
+        },
+        "title": {
+            "translate": "advancements.wind.aeolus.title"
+        },
+        "description": {
+            "translate": "advancements.wind.aeolus.description"
+        }
+    },
+    "parent": "wind:magic_ingot",
+    "criteria": {
+        "get_stone": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "wind:Aeolus"
+                    }
+                ]
+            }
+        }
+    }
+}

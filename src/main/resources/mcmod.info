@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wind",
+  "name": "Wind",
+  "description": "§3 Wind always follows you.",
+  "version": "1.0.0",
+  "mcversion": "${mcversion}",
+  "url": "beta.gzcmw.com/origin/index.php/default/Wind.html",
+  "updateUrl": "beta.gzcmw.com/origin/index.php/default/Wind.htm",
+  "authorList": ["Edge"],
+  "credits": "Edge",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

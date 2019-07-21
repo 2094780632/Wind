@@ -1,0 +1,28 @@
+{
+    "display": {
+        "icon": {
+            "item": "wind:cloudcrystal"
+        },
+        "title": {
+            "translate": "advancements.wind.root.title"
+        },
+        "description": {
+            "translate": "advancements.wind.root.description"
+        },
+        "background": "wind:gui/advancements/backgrounds/cumulonimbus.png",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "criteria": {
+        "crafting_table": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "wind:wind_net"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "wind:cloud"
+        },
+        "title": {
+            "translate": "advancements.wind.cloud.title"
+        },
+        "description": {
+            "translate": "advancements.wind.cloud.description"
+        }
+    },
+    "parent": "wind:wind",
+    "criteria": {
+        "get_stone": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "wind:cloud"
+                    }
+                ]
+            }
+        }
+    }
+}

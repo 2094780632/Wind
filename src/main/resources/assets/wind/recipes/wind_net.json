@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " X#",
+      " X#",
+      "X  "
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:string"
+      },
+      "X": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "wind:wind_net"
+    }
+  }

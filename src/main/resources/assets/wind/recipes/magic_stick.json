@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "#",
+      "#"
+    ],
+    "key": {
+      "#": {
+        "item": "wind:magic_ingot"
+      }
+    },
+    "result": {
+      "item": "wind:magic_stick",
+      "count": 2
+    }
+  }
